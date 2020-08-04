@@ -1,0 +1,58 @@
+#osnova{
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-style:italic;
+}
+#header {
+	height: 60px;
+	padding: 24px;
+	color: white;
+	background: #054169;
+	background: -moz-radial-gradient(center, ellipse cover, #3c6f92,  #054169);
+	background: -webkit-linear-gradient(top, #3c6f92,  #054169);
+	background: -o-linear-gradient(top, #3c6f92,  #054169);
+	background: -ms-linear-gradient(top,#3c6f92,  #054169);
+}
+.ss{
+	width: 1260px;
+	height: 0px;
+}
+
+h2{
+	display: inline-block;
+	text-decoration: underline;
+	margin-right: 10px;
+    padding-left: 10px;
+}
+.lypa{
+	float: right;
+	padding: 5px;
+}
+#stranica{
+	margin-left: 40px;
+	width: 1000px;
+}
+h1{
+	color: #054169;
+	font-size: 250%;
+}
+.sl{
+	text-decoration: underline;
+	color: #295c7e;
+	display: inline-block;
+}
+.text{
+	width: 1000px;
+}
+#vibor{
+	float: right;
+}
+.krasota{
+	 border-radius: 100px;
+	 border-style: solid;
+	 padding: 10px;
+	 width: 250px;
+	 border-color: green;
+	 float: right;
+}
